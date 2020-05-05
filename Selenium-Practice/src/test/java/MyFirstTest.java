@@ -2,8 +2,10 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertFalse;
 
@@ -42,6 +44,30 @@ public class MyFirstTest extends TestBase {
         System.out.println(country.getText());
       }
     }
+  }
+
+  @Test
+  public void dropdownMenu() throws InterruptedException {
+    driver.navigate().to("https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/digital");
+    Actions action = new Actions(driver);
+    WebElement menu = driver.findElement(By.cssSelector("ul.lg-menu-legal__list li:first-child"));
+    action.moveToElement(menu).build().perform();
+    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+    action.moveToElement(driver.findElement(By.linkText("Начать бизнес со Сбербанком"))).click().build().perform();
+    driver.findElement(By.cssSelector("div.start__title.h1.m-xs-0"));
+    Thread.sleep(1000);
+  }
+
+  @Test
+  public void fillForm() throws InterruptedException {
+    driver.navigate().to("https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/digital");
+    driver.findElement(By.cssSelector("button.b-btn.b-btn-block.js-section-card-anchor")).click();
+    WebElement  phoneNumber = driver.findElement(By.name("phone"));
+    phoneNumber.sendKeys("1111111111");
+    Thread.sleep(1000);
+    driver.findElement(By.name("client")).sendKeys(Keys.RETURN);
+    phoneNumber.clear();
+    Thread.sleep(1000);
   }
 }
 
