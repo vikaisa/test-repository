@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MyFirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-21T12:26:23" hostname="Victorias-MacBook-Air.local" time="116.578">
+<testsuite name="MyFirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-05T15:20:13" hostname="Victorias-MacBook-Air.local" time="10.957">
   <properties/>
-  <testcase name="checkShipping" classname="MyFirstTest" time="116.578"/>
-  <system-out><![CDATA[Denmark
-Finland
-Greece
-Sweden
-Singapore (English)
-대한민국 (한국어)
-中国大陆 (简体中文)
-香港特別行政區 (繁體中文)
-香港特別行政區 (繁體中文)
-International (English)
-Internacional (Español)
-]]></system-out>
+  <testcase name="login" classname="MyFirstTest" time="10.957"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 42367
+Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 23708
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Apr 21, 2020 3:26:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1588692017.650][WARNING]: This version of ChromeDriver has not been tested with Chrome version 81.
+May 05, 2020 6:20:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1587471988.335][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587471988.437][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587471988.539][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587471988.640][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692019.194][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692019.308][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692019.935][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692020.313][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692020.541][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692020.846][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692021.008][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692021.121][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692022.125][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692022.229][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588692022.337][SEVERE]: Timed out receiving message from renderer: 0.100
 ]]></system-err>
 </testsuite>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73c2bb9e-a69e-440c-b55e-26cf5af160a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/classes/java/test/MyFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/classes/java/test/MyFirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/classes/MyFirstTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/classes/MyFirstTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/TEST-MyFirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/TEST-MyFirstTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bUhu92ZZQ6dwadbFLfgj1jnjFe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.pft.sandbox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
+      <module name="New_Java_Tests.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c2bb9e-a69e-440c-b55e-26cf5af160a9" name="Default Changelist" comment="" />
+      <created>1588692799334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588692799334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="322" width="490" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588858155870">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="505" y="322" width="490" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1588858155870" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588859707434">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588859707434" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588859707432">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588859707432" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588859707431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588859707431" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588859707433">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588859707433" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1588692831673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588692831673" />
+    <state x="552" y="235" key="chooseDestDirectoryDialog" timestamp="1588858155769">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="552" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1588858155769" />
+  </component>
+</project>
