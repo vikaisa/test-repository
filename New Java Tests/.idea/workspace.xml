@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c2bb9e-a69e-440c-b55e-26cf5af160a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/classes/java/test/MyFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/classes/java/test/MyFirstTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/classes/MyFirstTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/classes/MyFirstTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/TEST-MyFirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/TEST-MyFirstTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium-Practice/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ru/stqa/pft/sandbox/MyFirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ru/stqa/pft/sandbox/MyFirstProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ru/stqa/pft/sandbox/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ru/stqa/pft/sandbox/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ru/stqa/pft/sandbox/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ru/stqa/pft/sandbox/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,16 +57,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.stqa.pft.sandbox" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.SquareTests.testArea">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="New_Java_Tests.main" />
@@ -62,8 +75,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquareTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.SquareTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SquareTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="New_Java_Tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.SquareTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTests.testArea" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="New_Java_Tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.SquareTests" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SquareTests.testArea" />
+        <item itemvalue="TestNG.SquareTests" />
+        <item itemvalue="Gradle.SquareTests" />
         <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
@@ -82,30 +152,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1588953459717">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1588953459717" />
     <state x="505" y="322" width="490" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588858155870">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="505" y="322" width="490" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1588858155870" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588859707434">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588954950410">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588859707434" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588859707432">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588954950410" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588954950407">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588859707432" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588859707431">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588954950407" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588954950406">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588859707431" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588859707433">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588954950406" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588954950408">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588859707433" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1588692831673">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588954950408" />
+    <state x="208" y="23" width="1024" height="820" key="SettingsEditor" timestamp="1588953934744">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588692831673" />
+    <state x="208" y="23" width="1024" height="820" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588953934744" />
     <state x="552" y="235" key="chooseDestDirectoryDialog" timestamp="1588858155769">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
