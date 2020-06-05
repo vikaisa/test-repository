@@ -12,7 +12,7 @@ public class MyFirstProgram {
     System.out.println("Площадь прямоугольника со сторонами " + r.a + " и " + r.b + " = " + r.area());
   }
 
-  public static  void hello (String somebody) {
+  public static void hello (String somebody) {
     System.out.println("Hello, " + somebody + "!");
   }
 }
