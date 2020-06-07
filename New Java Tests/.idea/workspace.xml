@@ -51,6 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/../addressbook-web-tests/src" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -59,14 +60,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../addressbook-web-tests" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.stqa.pft.sandbox" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../addressbook-web-tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../addressbook-web-tests" />
     </key>
   </component>
@@ -201,30 +202,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="505" y="322" width="490" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1588858155870" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1591395590737">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1591540887647">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591394543305" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591540887647" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1591395590737" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1591395590731">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1591540887645">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591394543303" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591540887645" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1591395590731" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1591395590730">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1591540887643">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591394543303" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591540887643" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1591395590730" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1591395590735">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1591540887646">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591394543304" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591540887646" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1591395590735" />
     <state x="367" y="139" width="860" height="587" key="NewModule_or_Project.wizard" timestamp="1591378161527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="367" y="139" width="860" height="587" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1591378161527" />
+    <state x="252" y="76" key="RefactorJ.IntroduceParameterObject" timestamp="1591543197813">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="252" y="76" key="RefactorJ.IntroduceParameterObject/0.0.1440.900@0.0.1440.900" timestamp="1591543197813" />
+    <state x="534" y="375" key="ReplaceDuplicatesPrompt" timestamp="1591540362970">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="534" y="375" key="ReplaceDuplicatesPrompt/0.0.1440.900@0.0.1440.900" timestamp="1591540362970" />
     <state x="208" y="23" width="1024" height="820" key="SettingsEditor" timestamp="1591393230364">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -233,5 +242,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="552" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1591389741833" />
+    <state x="458" y="195" key="extract.method.dialog" timestamp="1591541189260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="195" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1591541189260" />
   </component>
 </project>
